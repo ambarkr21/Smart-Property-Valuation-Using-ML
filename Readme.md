@@ -21,29 +21,29 @@ SmartPropertyValuation/
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
-```bash
+ 1️⃣ Clone the Repository
+
 git clone
 cd SmartPropertyValuation
 
-### 2️⃣ Install Dependencies
-```bash
+ 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
-### 3️⃣ Run the Jupyter Notebook
-```bash
+ 3️⃣ Run the Jupyter Notebook
+
 jupyter notebook
 Open SmartPropertyValuation.ipynb and run the cells.
 
-### 📊 Model Training & Prediction
+ 📊 Model Training & Prediction
 Train the model using the preprocessed dataset.
 Save the trained model as house_price_model.pkl.
 Use the model for accurate property price predictions.
 
-###📌 Technologies Used
+📌 Technologies Used
 Python
 Pandas, NumPy, Seaborn, Matplotlib
 Scikit-Learn
 Joblib (for model persistence)
 
-###📜 License
+### 📜 License
 This project is licensed under the MIT License.
